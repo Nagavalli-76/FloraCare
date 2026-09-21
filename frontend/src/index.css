@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-cream-50 text-botanical-900 font-sans antialiased;
+}
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: #c7dbc0; border-radius: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
