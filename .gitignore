@@ -22,3 +22,4 @@ backend/.env
 # OS / editor
 .DS_Store
 .vscode/
+.netlify/
